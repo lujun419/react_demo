@@ -13,7 +13,7 @@ function App() {
   tst();
  
   function tst(){
-    useDebugValue('tst');
+    useDebugValue('tstts');
   } 
   function handleAddTask(text){
     dispatch({
